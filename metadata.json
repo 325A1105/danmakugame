@@ -1,0 +1,6 @@
+{
+  "name": "弾幕回避 — Cursor Danmaku",
+  "description": "マウスカーソルで周囲から飛んでくる弾幕を回避し、弾幕の中のアイテムを集めてハイスコアを目指す2Dアーケードゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
